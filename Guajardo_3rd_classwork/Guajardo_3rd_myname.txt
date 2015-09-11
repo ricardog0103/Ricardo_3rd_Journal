@@ -1,0 +1,7 @@
+Begin:
+	writte with a pincel
+		Draw a 2 inch line up
+		Then at the end draw a circle to the left of the line
+		When the circle touch the line stop and draw a line going to thye bottom right and stop when same lenght ars the first line
+		
+		
