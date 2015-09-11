@@ -1,0 +1,2 @@
+Pseudocode is the foundation for a good code it is a refrence to code.We will use it as a back bone for are programming.
+
