@@ -1,0 +1,5 @@
+1)int - is an interger.
+2)float - A floating point decimal.
+3)char - Just are Character.
+4)string- is a lot of characters.
+5)boolean-True of false
