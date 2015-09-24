@@ -30,7 +30,7 @@ GNU GPL-a free software
 
 License- a license
 
-MIT license-being able to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software
+MIT license- it givis you complet power / being able to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software
 
 Apache License -the freedom to use the software for any purpose
 
