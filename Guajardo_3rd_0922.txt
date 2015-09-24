@@ -1,0 +1,36 @@
+Copyright-a right  that allows your work to not be used without your permission.
+
+Copyleft- a method to create a program, if any  modifcation is made it must follow their directions.
+
+Fair Use- you can use an object or thing under ther terms and polocies.
+
+Free speech- you can say things you can print things. 
+
+Free Software -This gives users the fredom to run the software for anypurpose cahnge or add things to the softwatre.
+
+Freeware-it is software that is available free of charge or optain.
+
+Public Domain- A publish work whose copyright is expired.
+
+File-sharing - way to share files from one computer to another or over a network.
+
+Piracy- permission or authorized use of anothers work.
+
+Plagiarism-taking credit for some one elses work.
+
+plagiarism- act of copying or using one's work as your own
+
+infringement-to copy
+
+proprietary-having ownership
+
+open source-a software's source code that is available to see and use
+
+GNU GPL-a free software
+
+License- a license
+
+MIT license-being able to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software
+
+Apache License -the freedom to use the software for any purpose
+
