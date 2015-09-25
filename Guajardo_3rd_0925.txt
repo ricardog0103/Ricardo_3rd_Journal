@@ -1,0 +1,19 @@
+Paid licencse- a lincense that you pay for
+
+Shareware- software that is available free of charge and often distributed informally for evaluation, after which a fee may be requested for continued use.Translate shareware to 
+ 
+Trialware - software that you can you use for a limited period before it expires.
+
+Ad-ware - a software that has embedded in the  application.
+
+Crippleware - a program that dosent run until they regester or buys it.
+
+Freemium- is a prodoct givin to you for free but you can pay for a premium version. 
+
+FreeWare (vs Free-OpenSource)- freeware dose not have the source sorce open source has the sourse cose.
+
+Richard Stallman- a software freedom activist.
+
+Lawrence Lessig- he is running for president and he is a profeser in harvard law school.
+
+Eben Moglen- profeser of law and a free software foundation person.
