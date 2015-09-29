@@ -1,0 +1,12 @@
+A method is a mini program that you will use over and over again in your program.
+There are usefull because they save you a lot of time. Because instead of writting that pice of code every time you want to use it,you will only write it ones.
+To find prime numbers you will use this code;
+
+int x = 0;
+        for(int i=2; i<102 ; i ++){
+            System.out.println(i);
+            if(i % 2 == 0){
+            x++;
+        }
+            System.out.println("There are " + x + " even numbers.");
+        }
