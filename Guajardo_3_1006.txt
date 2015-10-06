@@ -1,0 +1,5 @@
+Methods are little programs that go at the end of you code and you use in your main code.
+Classes are small subsections of the program that make it easier you read and its more organize.
+An instance is 
+A class methods are mrthods running in different  classes but the reall code runs in the main class.
+
