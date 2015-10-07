@@ -1,0 +1,2 @@
+A java Class is a subsection of the program that divise the code to look more organized.
+The java class for javaFX would be a method in every class.
