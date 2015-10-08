@@ -1,0 +1,10 @@
+What are your tentative thoughts / plans for your art project?
+I will make a Picasso master pice with my the tool you have showd us.
+What might be methods you will use?
+My methods are  going to be the shapes im going to use in my profram.
+How might you incorporate a for loop?
+I will insert the for loop in the main class.
+How might you incorporate, if, else if, else?
+I will incorporate if , and if else after my for loop.
+What math might you use? 
+Well the for loop and also and how big the window will be and the shapes demesions. 
