@@ -1,0 +1,3 @@
+My guessing is game.Because your trying to match  the numbe to win.But what
+ woud make it better is if the game would let you keep trying until you match
+the number and win.
