@@ -1,0 +1,12 @@
+What is a method?
+A method is a mini program that u can call at any givin time in your code.
+Which methods did you use and how did you use them in your guessing game
+program?
+I crated two methods one it the english version and the other metyhod is a
+spanish version of the game.  
+What is a while loop?
+A while loop a is a loop that run while the condition or stament is true if 
+false its stops.
+How did you use a while loop, boolean, and counter in your guessing game?
+In my program i used a counter that puts a limit to my while loop and my while loop
+is as logest my counter is true you can play the game.
