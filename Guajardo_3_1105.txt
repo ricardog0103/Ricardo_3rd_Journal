@@ -1,0 +1,9 @@
+What are strings?
+-A string is a multiples and numbers and character.
+What are they good for?
+-There good for to begin a method and use countes in the process in needed.
+What are some string methods?
+-Some are whe n you ask for the user input for exmple when you ask for there 
+name or like in the new project we made it was also there number they pick to play the game.
+How do we identify string methods?
+-Its when all the method is counducted by a string 
