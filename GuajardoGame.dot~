@@ -1,0 +1,14 @@
+digraph simple_map {
+
+A [label = "Start - you were in a coma and you wook up.You were waiting for some to come and help you.You were weak and no one came to help you.After a "]
+B [label = "You are getting up"]
+C [label = "You are sating in bead."]
+A1 [label = "When you get up you go to the hallway and get up"]
+A2 [label = ""]
+A ->B  [label="commands", fontcolor=darkgreen]
+B -> C
+B -> D
+B -> E
+E -> F
+
+}

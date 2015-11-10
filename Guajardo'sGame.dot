@@ -1,0 +1,16 @@
+digraph simple_map {
+
+A [label = "Start - you were in a coma and you wook up.You were waiting for some to come and help you.You were weak and no one came to help you.After a a few minutes you wan to get up. "]
+B [label = "You get up"]
+C [label = "You stay laying down"]
+D [label = "Drink potion"]
+
+ 
+A -> B 
+A -> C
+B -> D
+B -> E
+E -> F
+E ->
+
+}

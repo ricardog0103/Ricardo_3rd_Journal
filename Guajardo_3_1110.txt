@@ -1,0 +1,8 @@
+How can you track what challenges the player has solve?
+-Im goin to track what the player has solve by using booleans and also 
+if and else statement and also add some classes.
+
+How can you track Hp?
+-I will use booleans for that challenge but i could also use counters.
+
+
