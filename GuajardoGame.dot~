@@ -1,14 +1,42 @@
 digraph simple_map {
 
-A [label = "Start - you were in a coma and you wook up.You were waiting for some to come and help you.You were weak and no one came to help you.After a "]
-B [label = "You are getting up"]
-C [label = "You are sating in bead."]
-A1 [label = "When you get up you go to the hallway and get up"]
-A2 [label = ""]
-A ->B  [label="commands", fontcolor=darkgreen]
-B -> C
-B -> D
-B -> E
-E -> F
+A [label = "Start - you were in a coma and you wook up.
+You were waiting for some to come and help you.You were
+ weak and no one came to help you.After a "]
+
+A1 [label = "You are getting up"]
+
+A2 [label = "You are staying in bed."]
+
+B1 [label = "When you get up you
+ go to the hallway"]
+
+B2 [label = "Stay there until you feel
+ better to get up"]
+
+C1 [label = "You see a person You go to them and
+they turn around and try to eat you and they smell
+really bad you take him off but another one comes 
+from the back and you die!!!!! "]
+
+C2 [label = "You see someone and you call for them 
+they dont respond and they turn to you and star attacking 
+you but you hit them with a "]
+
+D1 [label = "Pick up  chair"]
+
+D2 [label = "Pick up a "]
+
+D3
+
+A -> A1  
+A -> A2
+A1-> B1
+A2 -> B2
+B1->C1->A
+B2->C2
+C2->D1
+C2->D2
+C2->D3
 
 }

@@ -1,6 +1,6 @@
 digraph simple_map {
 
-A [label = "Start - you were in a coma and you wook up.
+A [label = "Start - you were in a coma and you woke up.
 You were waiting for some to come and help you.You were
  weak and no one came to help you.After a "]
 
@@ -16,18 +16,99 @@ B2 [label = "Stay there until you feel
 
 C1 [label = "You see a person You go to them and
 they turn around and try to eat you and they smell
-really bad you take him off but another one comes 
+really bad you take him off but another one comes
 from the back and you die!!!!! "]
 
-C2 [label = "You see someone and you call for them 
-they dont respond and they turn to you and star attacking 
+C2 [label = "You see someone and you call for them
+they don't respond and they turn to you and start attacking
 you but you hit them with a "]
 
 D1 [label = "Pick up  chair"]
 
-D2 [label = "Pick up a "]
+D2 [label = "Pick up a Banana "]
 
-D3
+D3 [label = "Pick up a knife"]
+
+E1 [label = "You throw it at its head
+and then one of the legs enters
+its skull and the zombie dies."]
+
+E2 [label = "You stab the banna through
+the eye of the zombie and it dies with its
+hand in your face."]
+
+E3 [label = "You stab it behind its back and
+get knock over in the floor."]
+
+F [label = "You are save but now you are scare of why
+no one is in the hospital and what was that
+thing that try to kill you.Also wondering where his family is at?"]
+
+G [label = "You want to get out of the hospital
+and get some answers."]
+
+H [label = "You go back to your room and
+and see that there's a tape on the Tv and
+you play it and it shows that the whole
+world has been infected by a disease that
+turn you to a human that eat other people and if you get 
+bitten by them you will turn like them."]
+
+I  [label = "You leave fast to your house to see
+ your family and check if there ok."]
+
+J  [label = "You see that when you get outside 
+there's  a lot off of the same infected people
+walking around."]
+
+K1 [label = "You go for it and get spotted and fight
+them off with a slech hamer."]
+
+K2 [label = "You go but through the alleys and less
+infected people will see you."]
+
+L1 [label = "You attract to many infected people to
+you and they start to b "]
+
+L2 [label = " You go save without attracting too many
+infected people to you and you run into a group of non
+infected people and they explain all that happen."]
+
+M [label = "They tell that the disease spread fast and
+more and more people turn into them and that even 
+the undead turn into them They ask you if you wanted 
+to join their group to survive."]
+
+N1 [label = "Say no"]
+
+N2  [label = "Say yes"]
+
+O1  [label = "You tell them were your going
+and that you have to find your family and they offer
+you to take you to your house and you say yes. "]
+
+O2 [label = "You go with them but with the condition 
+that if they could take you to your house to see if your
+family is thereAnd they say yes."]
+
+P1 [label = "You get into the car but you have to 
+go fast because you attrack the zombies with the noise of the 
+car. "]
+
+P2[label = "You get into the car but you have to 
+go fast because you attrack the zombies with the noise of the 
+car. "]
+
+Q1 [label = "They droop you off a block ahead because there
+to many " ] 
+R
+S
+T
+U
+V
+X
+Y
+Z
 
 A -> A1  
 A -> A2
@@ -38,5 +119,22 @@ B2->C2
 C2->D1
 C2->D2
 C2->D3
-
+D1->E1
+D2->E2
+D3->E3
+E1->F
+E2->F
+E3->F
+F->G
+G->H
+H->I
+I->J
+J->K1
+J->K2
+K1->L1
+K2->L2
+L1->J
+L2->M
+M->N1
+M->N2
 }

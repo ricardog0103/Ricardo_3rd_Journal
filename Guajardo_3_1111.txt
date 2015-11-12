@@ -1,0 +1,8 @@
+In your game, what challenges must your player solve?
+
+How will you specifically track whether they have been solved?
+
+Provide variable names and types. Classes if applicable. 
+
+-In my game the player is givin diffrent choices to get to his destination
+He need to pick the best or most efficient chpice in a givin time.I will track this with booleans and if and else statements. 
