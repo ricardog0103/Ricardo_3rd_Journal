@@ -70,14 +70,16 @@ infected people will see you."]
 L1 [label = "You attract to many infected people to
 you and they start to b "]
 
-L2 [label = " You go save without attracting too many
-infected people to you and you run into a group of non
-infected people and they explain all that happen."]
+L2 [label = " You go save without attracting 
+too many infected people to you and you run 
+into a group of noninfected people and they 
+explain all that happen."]
 
-M [label = "They tell that the disease spread fast and
-more and more people turn into them and that even 
-the undead turn into them They ask you if you wanted 
-to join their group to survive."]
+M [label = "They tell that the disease spread 
+fast and more and more people turn into them 
+and that even the undead turn into them They 
+ask you if you wanted to join their group to 
+survive."]
 
 N1 [label = "Say no"]
 
@@ -95,15 +97,29 @@ P1 [label = "You get into the car but you have to
 go fast because you attrack the zombies with the noise of the 
 car. "]
 
-P2[label = "You get into the car but you have to 
-go fast because you attrack the zombies with the noise of the 
+P2[label = "You get into the car but you 
+have to go fast because you attrack 
+the zombies with the noise of the 
 car. "]
 
-Q1 [label = "They droop you off a block ahead because there
-to many " ] 
-R
-S
-T
+Q1 [label = "They droop you off a block 
+ahead because there to many Zombies and 
+all of you enter through the back. " ]
+
+Q2 [label = "You run over all the zombies 
+and Knife the rest of the Zombies and 
+enter your house. "]
+
+R [label = "You inside and donnt see nothing."]
+
+S1 [label = "You decide to go back to 
+there camp but really disoponted 
+and sad."]
+
+S2 [label = "You are really asd but you 
+go with them to the camp."]
+
+T [label = ""]
 U
 V
 X
@@ -137,4 +153,9 @@ L1->J
 L2->M
 M->N1
 M->N2
+N1->O1
+N2->O2
+O1->P1
+O2->P2
+
 }

@@ -1,0 +1,10 @@
+How will you use while loops in your game? Why?
+
+-I will use a while loop while the answer is true.For example while
+They say yes they game will keep gopin if they say no the game will 
+not move on.
+
+How will you use methods in your game? Why?
+I will use methods to check there answer they input in and also to use a part
+of the program that i will use more than onea and also keeps the code more
+organize for otherr to read and you to. 
