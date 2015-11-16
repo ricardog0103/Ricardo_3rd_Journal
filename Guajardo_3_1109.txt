@@ -1,0 +1,9 @@
+Are you ready to begin coding your game?
+-Im ready to bigin coding my game.
+Why or Why not?
+-Becuase i have my flow chart ready and and i have the idea ready for the game.
+What will be your biggest challenge?
+-My biggest challange in my code will probably will be making a time limit
+for the user to pick a choice and move fowerd with the game.
+Why?
+-Because we haven't learn how to do that in class just yet. 
