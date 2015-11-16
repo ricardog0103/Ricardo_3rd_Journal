@@ -1,0 +1,6 @@
+No, really, How will you use methods in your game? Why?
+I will use methods to creat a timer of how long the user has to pick a 
+descision and also i will have a inglesh and spanish version of the game.
+
+What values will you pass to them
+I wiill past booleans and maybe integers but mostly booleans for the most part.

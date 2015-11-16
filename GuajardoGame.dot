@@ -116,15 +116,16 @@ S1 [label = "You decide to go back to
 there camp but really disoponted 
 and sad."]
 
-S2 [label = "You are really asd but you 
+S2 [label = "You are really and but you 
 go with them to the camp."]
 
-T [label = ""]
-U
-V
-X
-Y
-Z
+T [label = "You cild not belive when you saw when you got 
+to camp you saw your family."]
+
+U [label = "They explain what has happen to you!"]
+
+V [label = "you get under attack"] 
+
 
 A -> A1  
 A -> A2
@@ -157,5 +158,14 @@ N1->O1
 N2->O2
 O1->P1
 O2->P2
-
+P1->Q1
+P2->Q2
+Q1->R
+Q2->R
+R->S1
+R->S2
+S1->T
+S2->T
+T->U
+U->V
 }
