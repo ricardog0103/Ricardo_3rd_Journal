@@ -1,0 +1,11 @@
+Briefly describe what you could have done to successfully complete your game?
+- I have successfully added enemies and got them to all To chace you down
+once you were playing the game.Also got them to take life away from you.I have
+also have change the menu,losse, ans winning screen for my game.I have Also
+got my new charecter in to the game.Also cha ge the posion to my one potion.
+Last thing i did is getting my map into the game.  
+Describe your problem solving / trouble shooting process.
+On problem that i had was for some reason some of my walls wee not getting 
+blocked and we fix it by adding some other blockes under the layer of the
+original one to block it. Last major proble was that not all the enemies were 
+following but i also fix that by adding a while loop.
