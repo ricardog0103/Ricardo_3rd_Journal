@@ -1,0 +1,7 @@
+What is a class constructor?
+A class constructure is whe you call a metho.Like public void dog, then this method will have the properties of the dog, and a giving values. 
+What should be included in a class constructor for orbs? Why?
+We slould have then properties of the orbs and giving values ot the orbs.
+What methods should the orb have? why?
+The method orb should have healt and demensions to it.Because with out the demension you would have a big orb that could cover you whole map and you dont want that.And you want to
+add ahealt that the orb will take away from the enemies.
