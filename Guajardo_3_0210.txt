@@ -1,0 +1,7 @@
+Make a list of ten problems (e.g., FAQs) you have faced when adding orbs to your game.
+-Some of my private and public were lighting red.
+-Everything was working fine and nothing was lighting red but the code crashed.
+-The orb didnt want to appear.
+-Then sometimes it appear but it glitch outm .
+-Then  somtimes when i pless the space bar it didnt appear when i click it.
+-When it wanted to appear it didnt want to move.
