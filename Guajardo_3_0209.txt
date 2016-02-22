@@ -1,0 +1,36 @@
+How can / will you make the orb move in the direction you are facing?
+
+Explain and provide specific code.
+	
+-Setting the orbs its 'x' and 'Y' variables. To follow the enemie and whem intersected make tghe enemie disappear.
+
+
+
+
+
+		Example:
+			        if (orb1.isIsVisible()) {
+
+            if (orb1.gettimeExists() > 0) {
+                if (player.getDirection() == 0) {
+
+                    orb1.setX((int) player.x);
+                    orb1.setY(orb1.getY() - 5);
+                } else if (player.getDirection() == 2) {
+                    orb1.setX((int) player.x);
+                    orb1.setY(orb1.getY() + 5);
+                } else if (player.getDirection() == 3) {
+                    orb1.setX(orb1.getX() - 5);
+                    orb1.setY(orb1.getY());
+                } else if (player.getDirection() == 1) {
+                    orb1.setX(orb1.getX() + 5);
+                    orb1.setY(orb1.getY());
+                }
+
+                orb1.hitbox.setX(orb1.getX());
+                orb1.hitbox.setY(orb1.getY());
+                orb1.countdown();
+            } else {
+                orb1.setIsVisible(false);
+            }
+        }
