@@ -1,0 +1,5 @@
+Describe what you will have to do to clean up your code to make the program more your own (and legible).
+-Well first you would want to change the file name of you code to you own name game. Change it from unwavering to something you want. For example you can name it Guajardo_World_Of_Fun.
+Then you can take out all the cordinat that apears when your game is runnig.You solve this problem by taking away all the System.out.println from you code and also take out all the
+comments that the game came with. This will make it your own game.  
+
