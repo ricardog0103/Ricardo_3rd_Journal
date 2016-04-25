@@ -1,0 +1,18 @@
+We will have an end of the year assessment.
+What are 10 concepts you believe will be covered on the test. Why?
+-Arrays
+-Object Oriented Programing (OOP) the Philosophy
+-For loops
+-Assembly
+-Diffrent Data types
+-Strings
+-Slick
+-Whats required for a class
+-What are objects, ints, booleans, ect.
+-Getters and Setters and what they do nad are?
+-Counters
+-Arduino
+	I believe this is gong to be in the end of the school exam because its subjects, we have
+gone over in class this second semester. There are also topics that have beem in test or quizes
+whit semester. Some are topics that come up more that onces in class. Most of this concepts we 
+should know like are palm of our hand.
