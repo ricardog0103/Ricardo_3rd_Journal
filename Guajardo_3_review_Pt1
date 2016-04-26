@@ -1,0 +1,46 @@
+Write a Java method to return the cubed value of some number.
+
+	public int Cube (int a){
+	int volume = a;
+	a = x*x*x;
+	return a;
+	}
+
+Write an Arduino function to return the cubed value of some number.
+
+	void loop (){
+	int i = 25;
+	
+	int squared;
+	int cubed;
+
+	squared = i*i
+	cubed = i*squared
+
+	return i;
+	
+	}
+
+
+Create the class, an object, and class constructor for class student
+
+	public class Student{
+	int height;
+	int shoeSize;
+	String ethnecity;
+	String haircolor;
+
+	public Student(int r, int i, String c, String a){
+		this.height - r;
+		this.shoeSize = i;
+		this.ethneciy = c;
+		this.hairColor = a;
+	}
+}
+
+Describe - if we were to continue with Arduino - what would you create?
+	If we were to countinue to work with Aurduino i would like to add to my alarm clock 
+a little tune to play when the alarm goes off, and a patter of led's to go off with it as well.
+I guess it i were to finish that project i would like to create a ganme of conect four.It seem 
+like a good challage to do and it seems pretty cool. I would like it to play a tune with the 
+buzzer when the winner wins.
