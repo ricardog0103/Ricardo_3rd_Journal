@@ -1,0 +1,49 @@
+
+    Given mymap[67][43] Which is the x coordinate? Which is the y coordinate? Why? How does this happen?
+    Consider:
+	The coordinate for 'x' is 43 and for 'y' it is 67. It works like this because for some reson i 2D array it work diffrent compare to your regual algebra coordinates.
+
+            for (int i = 0; i <= map[0].length - 1; i++) {
+                for (int j = 0; j <= map[1].length - 1; j++) {
+                    if (j < map[1].length - 1) {
+                      if (i=0){ System.out.print("8888"); #a
+                        } else if (map[i][j] != 'x') {
+                            System.out.print("."); #e
+                        } else {
+                            System.out.print(map[i][j]); #b
+                        }
+                    } else {
+                        if (map[i][j] != 'x') {
+                            System.out.println("."); #c
+                        } else {
+                            System.out.println(map[i][j]); #d
+                        }
+                    }
+                }
+            }
+        }
+            
+            
+          
+
+    Write the code from line #a and explain what it does.
+	if (i = 0){ System.out.print("8888");
+       -The beginning of the line would be 8888 (i is x) in this case of the code you can see that after 'a'
+    Write the code from line #b and explain what it does.
+	System.out.print(map[i][j]); #b
+	This prints out whatever is 'x' on the map/grid.So if its like an '@' it will pring a '@'.
+    Write the code from line #c and explain what it does. Explain how its different than #e
+	System.out.println("."); #c
+	-#e print the array that is going to be printed in your game. #c print the specifixc coordinate for example [23][16].
+    Write the code from line #d and explain what it does.
+	System.out.println(map[i][j]); #d
+	-This line of code print out the player when there at the edge of tbhe map/grid.
+
+    Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+	-You can have a boolean called like runGame , in your main or game, Which will keep running and keep it as true, but once the enmy hits lets say a trap or enemy 
+	you can make it false and it can end the game or whjene ever you want to end the game you would use false 
+    Explain the use of static.
+	A  static class make your objects or what ever it is have the same value across your whole game, so if u change it all of the same objects change as well.For example if you have
+	multiple enemys	and one dies they all die.
+    Provide an example of how you could use an object with your game. Give a code example.
+	A gtrat way to implement a objects is for enemys you implement it makes it easier and you would be able to have multiples of the as well as traps.
