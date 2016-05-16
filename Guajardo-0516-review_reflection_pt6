@@ -1,0 +1,14 @@
+    Explain casting. Up-casting, Down-casting.
+        up-casting:Its object of a subclass type to be treated as an object of any superclass type.
+        down-casting:This is a highly specified portion of the object
+    Give a specific code example for up-casting
+	    Amphibians a = new Whale();
+    Give a specific code example for down-casting
+	    Amphibians a = a1;		 
+	    Whale a2 =  a;  
+    Give a specific code example for converting a char to a String
+	char b;
+	(String)b;
+    What is the range of values for byte? Why?
+	The range fopr a byte is from 1-4 bytes.
+	It changes depending on the data type.
