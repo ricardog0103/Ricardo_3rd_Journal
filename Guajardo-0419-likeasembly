@@ -1,0 +1,9 @@
+Describe - what similarities do you notice between assembly and Human Resource Machine?
+Describe - what differences do you notice between assembly and Human Resource Machine
+
+
+After reading the code examples of assembly and playing the game HRM, there are many similarities.
+For starters the jump command, which acts kind of like a for loop, is in aassemby and is known as jmp. 
+Also like HRM, assembly has a JE which is the assembly equivalent of jump if negative, also both has a 
+jump if sero, in assembly it is known as JLE. Both are some what the same form of programming.
+Thiose are some differences and similarities that i notice in assembly and human machine.
